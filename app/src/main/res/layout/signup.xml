@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:background="@drawable/signscreen2"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SignUp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="SIGN UP"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:helperText="Required"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="40dp"
+        app:helperTextTextColor="#FF0000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/graybtn"
+            android:hint="Name"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:helperText="Required"
+        android:layout_marginHorizontal="40dp"
+        app:helperTextTextColor="#FF0000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/graybtn"
+            android:hint="Phone-NO"
+            android:phoneNumber="true"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:helperText="Required"
+        android:layout_marginHorizontal="40dp"
+        app:helperTextTextColor="#FF0000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/graybtn"
+            android:hint="Email"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:helperText="Required"
+android:layout_marginHorizontal="40dp"
+        app:helperTextTextColor="#FF0000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etpassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="@drawable/graybtn"
+            android:hint="Password"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnsignup"
+        android:layout_width="match_parent"
+       android:layout_marginTop="40dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="70dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:text="SIGN UP" />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/signin"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/signscreen2"
+    android:orientation="vertical"
+    tools:context=".SignIn">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="SIGN IN"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:helperText="Required"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="130dp"
+        app:helperTextTextColor="#FF0000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:background="@drawable/graybtn"
+            android:hint="Phone-NO"
+            android:phoneNumber="true"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        app:helperText="Required"
+
+        app:helperTextTextColor="#FF0000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/etpassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:background="@drawable/graybtn"
+            android:hint="Password"
+            android:textColor="@color/white" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnsignin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="70dp"
+        android:layout_marginTop="70dp"
+        android:backgroundTint="@color/black"
+        android:textSize="20dp"
+        android:textColor="@color/white"
+        android:text="SIGN IN" />
+
+
+</LinearLayout>
