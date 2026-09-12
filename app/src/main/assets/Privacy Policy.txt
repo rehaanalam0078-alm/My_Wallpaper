@@ -1,0 +1,275 @@
+# Privacy Policy for My Wallpaper Studio
+
+**Effective Date:** September 12, 2026
+
+**Last Updated:** September 12, 2026
+
+Md Rehaan Alam ("we", "us", or "our") operates the **My Wallpaper Studio** mobile application ("Application").
+
+This Privacy Policy explains how My Wallpaper Studio collects, uses, stores, shares, and protects information when you use the Application.
+
+By using My Wallpaper Studio, you agree to the practices described in this Privacy Policy.
+
+## 1. Information We Collect
+
+Depending on how you use the Application, we may collect or process the following information.
+
+### 1.1 Account Information
+
+When you create or use an account, we may process:
+
+* Name
+* Email address
+* Phone number, where provided during account registration
+* Firebase user ID (UID)
+* Profile information and profile photo associated with your authenticated account
+
+You may create an account using email/password authentication or Google Sign-In.
+
+This information is used to authenticate users, maintain accounts, provide personalized features, and associate user-generated content with the correct account.
+
+### 1.2 Wallpaper and App Activity
+
+The Application may process information associated with your use of wallpaper features, including:
+
+* Wallpapers you favorite
+* Wallpapers you download
+* AI wallpaper creations
+* AI generation prompts
+* Enhanced or processed prompts associated with AI generation
+* Wallpaper and category information required to provide Application functionality
+
+Some favorite information is stored locally on your device using Android application storage.
+
+### 1.3 AI-Generated Content
+
+My Wallpaper Studio provides AI-powered wallpaper-generation functionality.
+
+When you use AI generation, information such as your text prompt may be processed by third-party AI services or infrastructure used to generate the requested image.
+
+Generated images and related information may be stored in services used by the Application so that you can access your creations through your account.
+
+You should not submit confidential, highly sensitive, or personal information in AI prompts unless necessary for the requested functionality.
+
+### 1.4 Device and Technical Information
+
+The Application and third-party SDKs used by the Application may automatically process certain technical information necessary for operation, security, diagnostics, and service improvement.
+
+This may include information such as:
+
+* Device and operating-system information
+* Application version
+* Basic technical identifiers
+* Diagnostic information
+* Usage and event information
+* Information required by third-party SDKs to provide their services
+
+We do not intentionally request your precise physical location for the core wallpaper functionality of the Application.
+
+## 2. How We Use Information
+
+Information processed through My Wallpaper Studio may be used to:
+
+* Create and maintain your account
+* Authenticate your identity
+* Provide Google Sign-In and account functionality
+* Display and manage wallpapers
+* Save and synchronize account-related information
+* Maintain your favorite wallpapers
+* Provide wallpaper downloads
+* Generate AI wallpapers
+* Store and display your AI-created wallpapers
+* Maintain application security and reliability
+* Diagnose technical problems and crashes
+* Understand application usage and improve features
+* Provide notifications and other Application functionality where enabled
+* Respond to support, privacy, or account-deletion requests
+* Comply with applicable legal obligations
+
+We do not sell your personal information.
+
+## 3. Third-Party Services
+
+My Wallpaper Studio relies on third-party services to provide certain functionality.
+
+These services may process information according to their own privacy policies and terms.
+
+### 3.1 Firebase
+
+We use services provided by **Google Firebase**, including services associated with authentication, databases, configuration, analytics, and application infrastructure.
+
+Firebase may process information such as account identifiers, authentication information, application usage information, and technical/diagnostic information depending on the Firebase services used by the Application.
+
+Firebase services may include:
+
+* Firebase Authentication
+* Firebase Firestore
+* Firebase Realtime Database
+* Firebase Analytics
+* Firebase Remote Config
+* Firebase and Google cloud infrastructure supporting application functionality
+
+Google's handling of information through its services is also subject to Google's applicable privacy policies.
+
+### 3.2 Google Sign-In
+
+When you choose Google Sign-In, authentication is provided through Google.
+
+Information made available to the Application through the sign-in process may include information associated with your Google account, such as your name, email address, profile information, and an authentication identifier, subject to the permissions and configuration of the sign-in service.
+
+### 3.3 AI Services
+
+AI wallpaper generation may use third-party AI services and Google/third-party infrastructure.
+
+Your AI prompt and information necessary to generate an image may be transmitted to the applicable AI service.
+
+The processing of such information is subject to the applicable third-party provider's terms and privacy practices.
+
+### 3.4 Other Third-Party Libraries and Services
+
+The Application may contain third-party libraries or software development kits required for features such as image loading, analytics, cloud services, storage, authentication, diagnostics, or AI functionality.
+
+Such services may process limited technical or application information as necessary to provide their functionality.
+
+We are responsible for ensuring that our disclosures remain consistent with the actual services incorporated into the Application.
+
+## 4. Notifications
+
+My Wallpaper Studio may provide application notifications related to application functionality, such as newly available wallpaper content or other relevant updates.
+
+Where Android requires notification permission, notifications are subject to the permission granted by you.
+
+You may control notification access through the Application, where such controls are provided, or through your Android device settings.
+
+The Application does not use notifications to intentionally collect personal information from you.
+
+## 5. Storage and Access to Images or Media
+
+My Wallpaper Studio may request access to device media or storage when necessary to allow you to save wallpapers or otherwise use wallpaper-related functionality.
+
+For example, wallpapers may be downloaded to a Pictures/MyWallpaper location on your device.
+
+Media stored on your device remains subject to the permissions and controls provided by the Android operating system.
+
+We do not use access to your device's media for purposes unrelated to the Application's functionality.
+
+## 6. Cookies and Similar Technologies
+
+The mobile Application does not use traditional web-browser cookies as a primary mechanism for operating the Application.
+
+However, third-party services integrated into the Application may use technical identifiers or similar technologies to provide analytics, authentication, security, diagnostics, or other services.
+
+## 7. Data Sharing
+
+We may share or transmit information with service providers when necessary to operate the Application.
+
+Depending on the feature you use, information may be shared with:
+
+* Google/Firebase services
+* Authentication providers
+* AI processing providers
+* Cloud storage/database providers
+* Analytics and diagnostic service providers
+* Other technology providers necessary to operate the Application
+
+We do not sell personal information to advertisers or other third parties.
+
+We may also disclose information when reasonably necessary to:
+
+* Comply with applicable law or legal process
+* Protect the rights, safety, or property of users or the Application
+* Detect, prevent, or investigate fraud, abuse, or security incidents
+* Enforce our terms or protect the Application from misuse
+
+## 8. Data Retention
+
+We retain information only for as long as reasonably necessary to provide the Application's functionality, maintain security, comply with legal obligations, resolve disputes, and enforce applicable agreements.
+
+The retention period may vary depending on the type of information and the service through which it is stored.
+
+Some information may continue to exist temporarily in backups or service-provider systems after deletion while those systems complete their normal deletion and backup cycles.
+
+## 9. Account Deletion and Data Deletion
+
+You may request deletion of your My Wallpaper Studio account and associated personal information by contacting:
+
+**Email:** [mywallpaper.studio@gmail.com](mailto:mywallpaper.studio@gmail.com)
+
+When submitting a deletion request, please provide the email address associated with your account so that we can identify the relevant account.
+
+Upon receiving a valid deletion request, we will take reasonable steps to delete the personal information and account data associated with your account, subject to information that we are required or permitted to retain for legitimate purposes such as legal compliance, security, fraud prevention, or dispute resolution.
+
+Deleting your account may result in the permanent loss of account-associated content, including account information and AI-generated content associated with that account.
+
+### Important Account Deletion Notice
+
+Because My Wallpaper Studio provides account creation, the Application should provide users with a clear in-app mechanism to initiate account deletion in accordance with applicable Google Play requirements. Google Play currently requires both an in-app deletion path and an external deletion mechanism for apps that allow account creation.
+
+## 10. Security
+
+We use reasonable technical and organizational measures designed to protect information processed through the Application.
+
+However, no electronic transmission, cloud service, database, or storage system can be guaranteed to be completely secure.
+
+Accordingly, we cannot guarantee absolute security of your information.
+
+You are responsible for keeping your account credentials secure and should notify us if you believe your account has been accessed without authorization.
+
+## 11. Children's Privacy
+
+My Wallpaper Studio is not specifically directed toward children.
+
+We do not knowingly collect personal information from children in violation of applicable law.
+
+If you believe that a child has provided personal information through the Application in circumstances where such collection is not permitted, please contact us at:
+
+**[mywallpaper.studio@gmail.com](mailto:mywallpaper.studio@gmail.com)**
+
+We will take reasonable steps to investigate and address the request.
+
+## 12. Your Privacy Choices
+
+Depending on the functionality available in the Application and your Android device, you may be able to:
+
+* Control notification permissions
+* Control media/storage permissions
+* Manage your account
+* Remove locally stored application data
+* Request account and data deletion
+* Stop using the Application
+* Uninstall the Application
+
+You may also contact us regarding questions about your personal information.
+
+## 13. International Processing
+
+Some third-party service providers used by My Wallpaper Studio may process or store information on servers located outside India.
+
+By using the Application, you acknowledge that information may be transferred to and processed in countries where our service providers operate, subject to applicable laws and the provider's privacy practices.
+
+## 14. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to the Application, technology, services, legal requirements, or our privacy practices.
+
+When we make changes, we will update the "Last Updated" date at the top of this Privacy Policy.
+
+You should periodically review this Privacy Policy for any changes.
+
+## 15. Contact Us
+
+If you have any questions, concerns, privacy requests, or account-deletion requests, please contact:
+
+**Developer:** Md Rehaan Alam
+**Application:** My Wallpaper Studio
+**Country:** India
+**Privacy Email:** [mywallpaper.studio@gmail.com](mailto:mywallpaper.studio@gmail.com)
+
+For account deletion requests, please use:
+
+**[mywallpaper.studio@gmail.com](mailto:mywallpaper.studio@gmail.com)**
+
+## 16. Acceptance
+
+By downloading, accessing, or using My Wallpaper Studio, you acknowledge that you have read and understood this Privacy Policy.
+
+**© 2026 Md Rehaan Alam. All rights reserved.**
